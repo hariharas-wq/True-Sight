@@ -20,4 +20,4 @@ def recognise(frame):
     for name in names:
         #print(name)
         voice(name)
-#recognise('images/Apoorv.jpg')
+
